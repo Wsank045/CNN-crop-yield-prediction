@@ -12,6 +12,6 @@ This project develops a convolutional neural network (CNN) to predict crop yield
   - Cluster → intra-field generalization using clusters - Train on others clusters and test on one cluster
   - Reverse-Cluster → inverse cluster-based evaluation - Train on one cluster and test on others
 
-# Evaluation metrics: MSE, MAE, MAPE, R², Pearson correlation
+- Evaluation metrics: MSE, MAE, MAPE, R², Pearson correlation
 
 
