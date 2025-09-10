@@ -1,0 +1,15 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+
+
+# Deep Learning
+torch>=1.10
+torchvision
+
+# Geospatial data handling
+geopandas
+shapely
